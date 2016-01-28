@@ -1,0 +1,272 @@
+@import "../base/styles.css";
+
+.optiongrp {
+	text-align:center !important;
+	font-size:24px !important;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+	line-height:30px !important ;
+}
+
+.skipoptions {
+	
+	font-size:24px !important;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif !important;
+	line-height:30px !important ;
+}
+.skipsave {
+	
+	
+	padding-bottom:0px !important;
+	padding-left:0px !important;
+	
+}
+.skipcancel {
+	
+	
+	padding-bottom:0px !important;
+	padding-left:0px !important;
+	
+}
+.historylabel{
+	font-size: 24px ;
+	text-align:center
+}
+.treatmentlabel{
+	font-size: 24px ;
+	text-align:center
+}
+.filldispense{
+	
+	 color : #3D3F41 !important ;
+	 
+}
+.seetreatment{
+	
+	background:#3D3F41 !important;
+	 color : #C8C8C8 !important ;
+	 font-size :18px !important;
+}
+.seehistory{
+	background:#3D3F41 !important;
+	 color : #C8C8C8 !important ;
+	 font-size :18px !important;
+}
+.v-button-wrap {
+	
+	color :#F8F8F8  ;
+	font-family:"Times New Roman", Times, serif !important;
+}
+
+.v-touchkit-horizontalcomponentgroup .v-button-wrap {
+	color:#F8F8F8 !important;
+	font-size:16px !important;
+}
+.v-touchkit-navbutton {
+	background:#D8D8D8 !important;
+	line-height:100px !important;
+}
+.v-view.ready {
+	background-image: none;
+}
+
+.v-button-buttonstyle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 48px !important;
+	color: #FF0000;
+	
+	
+}
+.v-touchkit-navbutton-back {
+	line-height:30px !important;
+}
+.v-touchkit-tabbar-toolbar .v-touchkit-toolbar .v-button{
+	padding : 0px  !important ;
+	
+}
+.v-touchkit-horizontalcomponentgroup .v-button{
+	
+	margin: 3px !important ;
+	
+}
+.v-touchkit-horizontalcomponentgroup .v-button:last-child{
+	
+	border-bottom-right-radius:10px !important ;
+	border-top-right-radius:10px !important ;
+	
+}
+.fillnext {
+	/*background:url("play.jpg") no-repeat 10px 8px !important;
+	display:block;
+	color:#555555;
+	font-weight:bold;
+	height:30px;
+	line-height:29px;
+	margin-bottom:14px;
+	text-decoration:none;
+	width:191px;*/
+
+	background:#3D3F41 !important;
+	 color : #C8C8C8 !important ;
+	 font-size :18px !important;
+
+}
+
+.fillequivalence{
+	background:#3D3F41 !important;
+	 color : #C8C8C8 !important ;
+	 font-size :18px !important;
+	
+	 
+}
+.streatment{
+		background:#3D3F41 !important;
+	 	color : #C8C8C8 !important ;
+	 	font-size :18px !important;
+}
+.fillskip{
+	background:#3D3F41 !important;
+	 color : #C8C8C8 !important ;
+	 font-size :18px !important;
+}
+.outofstock{
+	background:#3D3F41 !important;
+	 color : #C8C8C8 !important ;
+	 font-size :18px !important;
+	
+	
+}
+.dispensenext{
+	background:#3D3F41 !important;
+	 color : #C8C8C8 !important ;
+	 font-size :18px !important;
+}
+.buttonstyle {
+	
+	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px !important;
+	color: #52555A;
+	
+}
+.fillback{
+	background:#3D3F41 !important;
+	 color : #C8C8C8 !important ;
+	 font-size :18px !important;
+}
+.filltray {
+	font-size: 24px !important ;
+	text-align:center !important;
+	font-family: ‘Lucida Sans Unicode’, ‘Lucida Grande’, sans-serif;
+	color:#52555A;
+
+}
+.dispense {
+	font-size: 24px !important ;
+	text-align:center !important;
+	font-family: ‘Lucida Sans Unicode’, ‘Lucida Grande’, sans-serif;
+	color:#52555A;
+}
+.dispenseskip{
+	background:#A52A2A !important;
+	 color : #C8C8C8 !important ;
+	 font-size :18px !important;
+}
+.dispenseback{
+	background:#3D3F41 !important;
+	 color : #C8C8C8 !important ;
+	 font-size :18px !important;
+}
+.settingsview{
+	background-color:#D8D8D8 !important ;
+}
+.logbutton  {
+	
+	color: #52555A !important;
+	font-family: ‘Lucida Sans Unicode’, ‘Lucida Grande’, sans-serif;
+	font-size: 24px !important;
+}
+.style1 {
+	background-color:#3D3F41 !important ;
+	border-radius:17px !important;
+}
+.style2 {
+	background-color:#3D3F41 !important ;
+	border-radius:17px !important;
+	
+}
+.style3 {
+	background-color:#3D3F41 !important ;
+	border-radius:17px !important;
+	
+}
+.style4 {
+	background-color:#3D3F41 !important ;
+	border-radius:17px !important;
+	
+}
+.style5 {
+	background-color:#3D3F41 !important ;
+	border-radius:17px !important;
+	
+}
+.v-touchkit-navview-toolbar {
+	background-color: #3D3F41 !important;
+}
+
+
+.v-touchkit-tabbar-toolbar .v-touchkit-toolbar{
+	background-color: #3D3F41 !important;
+	
+	
+}
+
+.v-csslayout-margin {
+	background: #D0D0D0  !important;
+	
+	
+}
+
+.v-touchkit-tabbar-toolbar .v-touchkit-toolbar .v-button-wrap {
+  color : #C8C8C8   !important ;
+  background:transparent !important ;
+  font-size:15px !important;
+  font-family:"Times New Roman", Times, serif !important;
+  text-shadow : none;
+  margin : 0;
+  height : auto;
+  width : auto;
+  padding : 0;
+}
+
+.v-csslayout-margin  {
+ 	background:white; 
+}
+
+.details .v-caption {
+	margin-top: 8px;
+	color:666;
+	font-style:italic;
+}
+
+.v-tk-view .details .v-button-caption {
+	line-height:18px !important;
+}
+
+.v-tabsheet-tabitemcell-newstyle {
+	background-color:#C8C8C8;
+	
+}
+
+.v-table-cell-wrapper {
+	padding-top:6px;
+	padding-bottom:6px;	
+	text-overflow: ellipsis;
+}
+.v-touchkit-tabbar-toolbar .v-touchkit-toolbar .v-button {
+  height:50px !important;
+  
+}
+.v-csslayout. v-csslayout-v-touchkit-toolbar. v-touchkit-toolbar{
+	height:50px !important;
+}
+

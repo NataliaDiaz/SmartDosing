@@ -1,0 +1,2 @@
+# Module com.example.smart_dispenser.widgetset.Smart_dispenserWidgetset
+# RPC service class, partial path of RPC policy file
