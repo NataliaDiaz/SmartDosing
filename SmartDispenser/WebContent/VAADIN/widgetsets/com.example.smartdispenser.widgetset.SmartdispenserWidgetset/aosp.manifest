@@ -1,0 +1,24 @@
+CACHE MANIFEST
+# Build timeFri Sep 19 19:26:08 EEST 2014
+
+CACHE:
+../../../VAADIN/themes/base/fonts/fontawesome-webfont.ttf
+../../../VAADIN/themes/touchkit/styles.css
+../../../VAADIN/vaadinBootstrap.js
+C82BE29043B9CCE941AAACBA14F11567.cache.js
+clear.cache.gif
+com.example.smartdispenser.widgetset.SmartdispenserWidgetset.devmode.js
+com.example.smartdispenser.widgetset.SmartdispenserWidgetset.nocache.js
+deferredjs/C82BE29043B9CCE941AAACBA14F11567/1.cache.js
+deferredjs/C82BE29043B9CCE941AAACBA14F11567/2.cache.js
+deferredjs/C82BE29043B9CCE941AAACBA14F11567/3.cache.js
+deferredjs/C82BE29043B9CCE941AAACBA14F11567/4.cache.js
+deferredjs/C82BE29043B9CCE941AAACBA14F11567/5.cache.js
+deferredjs/C82BE29043B9CCE941AAACBA14F11567/6.cache.js
+deferredjs/C82BE29043B9CCE941AAACBA14F11567/7.cache.js
+deferredjs/C82BE29043B9CCE941AAACBA14F11567/8.cache.js
+deferredjs/C82BE29043B9CCE941AAACBA14F11567/9.cache.js
+
+NETWORK:
+*
+
